@@ -1,0 +1,6 @@
+5
+Alice 85
+Bob 92
+Charlie 78
+Diana 66
+Edward 59

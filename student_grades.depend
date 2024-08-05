@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722835209 source:d:\student_grades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

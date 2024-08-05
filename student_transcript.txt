@@ -1,0 +1,9 @@
+Name,Marks,Grade
+Alice,85.00,B
+Bob,92.00,A
+Charlie,78.00,C
+Diana,66.00,D
+Edward,59.00,F
+
+Mean Marks: 76.00
+Mean Grade: C
